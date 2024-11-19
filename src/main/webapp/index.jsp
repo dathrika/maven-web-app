@@ -10,7 +10,6 @@
 
   <h4> Our Ofc state : Telangana </h4>
 
-  <h5> Course : DevOps with AWS </h5>
 
 </body>
 </html>
